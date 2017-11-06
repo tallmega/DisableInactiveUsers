@@ -13,7 +13,7 @@ import-module activedirectory
 #   Under actions, choose 'New' with the following options:
 #   Action: Start a Program
 #   Program/Script: Powershell
-#   Add Arguments: C:\CustomScripts\InactiveUsers45.ps1 >> C:\CustomScripts\InactiveUsers.log
+#   Add Arguments: C:\<path>\InactiveUsers.ps1 >> C:\<path>\InactiveUsers.log
 #   Then just set it to run as often as you need to.
 # Written by Kevin McBride (@tallmega) with lots of help from The Internet.
 
