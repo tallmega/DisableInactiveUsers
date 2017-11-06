@@ -2,7 +2,7 @@
 This script will disable inactive users, service accounts and log which accounts were disabled.
 It also clears the passwordneverexpires flag.
 
-This script was written to ensure that we are meeting an information security metric.
+This script was written to ensure that we are meeting an information security metric, as well as to help prevent credential theft attacks such as Password Spraying, Kerberoasting, etc.
 
 The metric requires that user accounts that have not been used in 45 days be disabled, and service accounts not used in 2 years be disabled.
 
