@@ -1,3 +1,4 @@
+# DISABLE INACTIVE USERS
 This script will disable inactive users, service accounts and log which accounts were disabled.
 It also clears the passwordneverexpires flag.
 
